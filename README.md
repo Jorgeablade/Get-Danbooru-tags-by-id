@@ -38,7 +38,9 @@ Install the requirements:
 Fill in the required fields:
 
   Username: Your Danbooru username.
+  
   Post ID: The ID of the post from which you want to extract tags.
+  
   API key: Your Danbooru API key. 
   
   To get your Danbooru API key, go to Danbooru, go to My account, and API KEY.
