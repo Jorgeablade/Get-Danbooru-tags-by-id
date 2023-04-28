@@ -52,3 +52,7 @@ Fill in the required fields:
 ```bash
   py.exe main.py
 ```
+
+You will get a file called "tags.txt" with all the tags, just copy and paste them.
+
+They have tag1, tag2, tag3, tag4, etc format.
