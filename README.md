@@ -38,11 +38,11 @@ Install the requirements:
 Fill in the required fields:
 
 ```bash
-  Username: Your Danbooru username.
+  Username: Your Danbooru username. At main.py
   
-  Post ID: The ID of the post from which you want to extract tags.
+  Post ID: The ID of the post from which you want to extract tags. At main.py
   
-  API key: Your Danbooru API key. 
+  API key: Your Danbooru API key. At .env
   
   To get your Danbooru API key, go to Danbooru, go to My account, and API KEY.
 ```
